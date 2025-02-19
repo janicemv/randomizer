@@ -1,1084 +1,1084 @@
 export const gods = [
   
     {
-      "Deus": "Sikuani",
-      "Panteão": "Aruak"
+      "God": "Sikuani",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Iwik",
-      "Panteão": "Aruak"
+      "God": "Iwik",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Kalit",
-      "Panteão": "Aruak"
+      "God": "Kalit",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Mator",
-      "Panteão": "Aruak"
+      "God": "Mator",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Ikamiaba",
-      "Panteão": "Aruak"
+      "God": "Ikamiaba",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Tsunú",
-      "Panteão": "Aruak"
+      "God": "Tsunú",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Yamalik",
-      "Panteão": "Aruak"
+      "God": "Yamalik",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Yurupary",
-      "Panteão": "Aruak"
+      "God": "Yurupary",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Mauari",
-      "Panteão": "Aruak"
+      "God": "Mauari",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Mapinguari",
-      "Panteão": "Aruak"
+      "God": "Mapinguari",
+      "Pantheon": "Aruak"
     },
     {
-      "Deus": "Quetzalcóatl",
-      "Panteão": "Aztec"
+      "God": "Quetzalcóatl",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Tezcatlipoca",
-      "Panteão": "Aztec"
+      "God": "Tezcatlipoca",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Tlaloc",
-      "Panteão": "Aztec"
+      "God": "Tlaloc",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Huitzilopochtli",
-      "Panteão": "Aztec"
+      "God": "Huitzilopochtli",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Mictlantecuhtli",
-      "Panteão": "Aztec"
+      "God": "Mictlantecuhtli",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Xipe Totec",
-      "Panteão": "Aztec"
+      "God": "Xipe Totec",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Xiuhtecuhtli",
-      "Panteão": "Aztec"
+      "God": "Xiuhtecuhtli",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Centeotl",
-      "Panteão": "Aztec"
+      "God": "Centeotl",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Ehecatl",
-      "Panteão": "Aztec"
+      "God": "Ehecatl",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Xolotl",
-      "Panteão": "Aztec"
+      "God": "Xolotl",
+      "Pantheon": "Aztec"
     },
     {
-      "Deus": "Baiame",
-      "Panteão": "Australian"
+      "God": "Baiame",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Daramulum",
-      "Panteão": "Australian"
+      "God": "Daramulum",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Bunjil",
-      "Panteão": "Australian"
+      "God": "Bunjil",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Wati-kutjara",
-      "Panteão": "Australian"
+      "God": "Wati-kutjara",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Julunggul",
-      "Panteão": "Australian"
+      "God": "Julunggul",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Tiddalik",
-      "Panteão": "Australian"
+      "God": "Tiddalik",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Nargun",
-      "Panteão": "Australian"
+      "God": "Nargun",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Yowie",
-      "Panteão": "Australian"
+      "God": "Yowie",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Dirawong",
-      "Panteão": "Australian"
+      "God": "Dirawong",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Wondjina",
-      "Panteão": "Australian"
+      "God": "Wondjina",
+      "Pantheon": "Australian"
     },
     {
-      "Deus": "Makonaima",
-      "Panteão": "Caribbean"
+      "God": "Makonaima",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Yurupari",
-      "Panteão": "Caribbean"
+      "God": "Yurupari",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Amalivaca",
-      "Panteão": "Caribbean"
+      "God": "Amalivaca",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Chemin",
-      "Panteão": "Caribbean"
+      "God": "Chemin",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Koromilia",
-      "Panteão": "Caribbean"
+      "God": "Koromilia",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Tamushi",
-      "Panteão": "Caribbean"
+      "God": "Tamushi",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Okonor",
-      "Panteão": "Caribbean"
+      "God": "Okonor",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Iwaka",
-      "Panteão": "Caribbean"
+      "God": "Iwaka",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Guabancex",
-      "Panteão": "Caribbean"
+      "God": "Guabancex",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Yuiza",
-      "Panteão": "Caribbean"
+      "God": "Yuiza",
+      "Pantheon": "Caribbean"
     },
     {
-      "Deus": "Dagda",
-      "Panteão": "Celtic"
+      "God": "Dagda",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Lugh",
-      "Panteão": "Celtic"
+      "God": "Lugh",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Cernunnos",
-      "Panteão": "Celtic"
+      "God": "Cernunnos",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Balor",
-      "Panteão": "Celtic"
+      "God": "Balor",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Belenus",
-      "Panteão": "Celtic"
+      "God": "Belenus",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Taranis",
-      "Panteão": "Celtic"
+      "God": "Taranis",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Ogma",
-      "Panteão": "Celtic"
+      "God": "Ogma",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Arawn",
-      "Panteão": "Celtic"
+      "God": "Arawn",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Nuada",
-      "Panteão": "Celtic"
+      "God": "Nuada",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Manannán mac Lir",
-      "Panteão": "Celtic"
+      "God": "Manannán mac Lir",
+      "Pantheon": "Celtic"
     },
     {
-      "Deus": "Pangu",
-      "Panteão": "Chinese"
+      "God": "Pangu",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Huang Di",
-      "Panteão": "Chinese"
+      "God": "Huang Di",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Lei Gong",
-      "Panteão": "Chinese"
+      "God": "Lei Gong",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Yan Wang",
-      "Panteão": "Chinese"
+      "God": "Yan Wang",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Erlang Shen",
-      "Panteão": "Chinese"
+      "God": "Erlang Shen",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Long Wang",
-      "Panteão": "Chinese"
+      "God": "Long Wang",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Yu Huang",
-      "Panteão": "Chinese"
+      "God": "Yu Huang",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Nezha",
-      "Panteão": "Chinese"
+      "God": "Nezha",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Guandi",
-      "Panteão": "Chinese"
+      "God": "Guandi",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Fuxi",
-      "Panteão": "Chinese"
+      "God": "Fuxi",
+      "Pantheon": "Chinese"
     },
     {
-      "Deus": "Rá",
-      "Panteão": "Egyptian"
+      "God": "Rá",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Osíris",
-      "Panteão": "Egyptian"
+      "God": "Osíris",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Set",
-      "Panteão": "Egyptian"
+      "God": "Set",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Anúbis",
-      "Panteão": "Egyptian"
+      "God": "Anúbis",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Tot",
-      "Panteão": "Egyptian"
+      "God": "Tot",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Khnum",
-      "Panteão": "Egyptian"
+      "God": "Khnum",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Sobek",
-      "Panteão": "Egyptian"
+      "God": "Sobek",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Ptah",
-      "Panteão": "Egyptian"
+      "God": "Ptah",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Hórus",
-      "Panteão": "Egyptian"
+      "God": "Hórus",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Amon",
-      "Panteão": "Egyptian"
+      "God": "Amon",
+      "Pantheon": "Egyptian"
     },
     {
-      "Deus": "Perun",
-      "Panteão": "Slavic"
+      "God": "Perun",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Veles",
-      "Panteão": "Slavic"
+      "God": "Veles",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Svarog",
-      "Panteão": "Slavic"
+      "God": "Svarog",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Rod",
-      "Panteão": "Slavic"
+      "God": "Rod",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Triglav",
-      "Panteão": "Slavic"
+      "God": "Triglav",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Chernobog",
-      "Panteão": "Slavic"
+      "God": "Chernobog",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Dazhbog",
-      "Panteão": "Slavic"
+      "God": "Dazhbog",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Stribog",
-      "Panteão": "Slavic"
+      "God": "Stribog",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Simargl",
-      "Panteão": "Slavic"
+      "God": "Simargl",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Jarilo",
-      "Panteão": "Slavic"
+      "God": "Jarilo",
+      "Pantheon": "Slavic"
     },
     {
-      "Deus": "Tinia",
-      "Panteão": "Etruscan"
+      "God": "Tinia",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Nethuns",
-      "Panteão": "Etruscan"
+      "God": "Nethuns",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Orcus",
-      "Panteão": "Etruscan"
+      "God": "Orcus",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Maris",
-      "Panteão": "Etruscan"
+      "God": "Maris",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Turms",
-      "Panteão": "Etruscan"
+      "God": "Turms",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Fufluns",
-      "Panteão": "Etruscan"
+      "God": "Fufluns",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Sethlans",
-      "Panteão": "Etruscan"
+      "God": "Sethlans",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Usil",
-      "Panteão": "Etruscan"
+      "God": "Usil",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Velthune",
-      "Panteão": "Etruscan"
+      "God": "Velthune",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Calus",
-      "Panteão": "Etruscan"
+      "God": "Calus",
+      "Pantheon": "Etruscan"
     },
     {
-      "Deus": "Ukko",
-      "Panteão": "Finnish"
+      "God": "Ukko",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Tapio",
-      "Panteão": "Finnish"
+      "God": "Tapio",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Ilmarinen",
-      "Panteão": "Finnish"
+      "God": "Ilmarinen",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Väinämöinen",
-      "Panteão": "Finnish"
+      "God": "Väinämöinen",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Lemminkäinen",
-      "Panteão": "Finnish"
+      "God": "Lemminkäinen",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Tursas",
-      "Panteão": "Finnish"
+      "God": "Tursas",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Ahti",
-      "Panteão": "Finnish"
+      "God": "Ahti",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Nyyrikki",
-      "Panteão": "Finnish"
+      "God": "Nyyrikki",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Tuoni",
-      "Panteão": "Finnish"
+      "God": "Tuoni",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Hiisi",
-      "Panteão": "Finnish"
+      "God": "Hiisi",
+      "Pantheon": "Finnish"
     },
     {
-      "Deus": "Zeus",
-      "Panteão": "Greek"
+      "God": "Zeus",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Poseidon",
-      "Panteão": "Greek"
+      "God": "Poseidon",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Hades",
-      "Panteão": "Greek"
+      "God": "Hades",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Apolo",
-      "Panteão": "Greek"
+      "God": "Apolo",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Ares",
-      "Panteão": "Greek"
+      "God": "Ares",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Hermes",
-      "Panteão": "Greek"
+      "God": "Hermes",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Dionísio",
-      "Panteão": "Greek"
+      "God": "Dionísio",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Hefesto",
-      "Panteão": "Greek"
+      "God": "Hefesto",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Cronos",
-      "Panteão": "Greek"
+      "God": "Cronos",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Urano",
-      "Panteão": "Greek"
+      "God": "Urano",
+      "Pantheon": "Greek"
     },
     {
-      "Deus": "Ñamandú",
-      "Panteão": "Guarani"
+      "God": "Ñamandú",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Karai",
-      "Panteão": "Guarani"
+      "God": "Karai",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Jakaira",
-      "Panteão": "Guarani"
+      "God": "Jakaira",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Tupa",
-      "Panteão": "Guarani"
+      "God": "Tupa",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Angatupyry",
-      "Panteão": "Guarani"
+      "God": "Angatupyry",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Tau",
-      "Panteão": "Guarani"
+      "God": "Tau",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Pytajovái",
-      "Panteão": "Guarani"
+      "God": "Pytajovái",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Ao Ao",
-      "Panteão": "Guarani"
+      "God": "Ao Ao",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Pombero",
-      "Panteão": "Guarani"
+      "God": "Pombero",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Jasy Jatere",
-      "Panteão": "Guarani"
+      "God": "Jasy Jatere",
+      "Pantheon": "Guarani"
     },
     {
-      "Deus": "Brahma",
-      "Panteão": "Hindu"
+      "God": "Brahma",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Vishnu",
-      "Panteão": "Hindu"
+      "God": "Vishnu",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Shiva",
-      "Panteão": "Hindu"
+      "God": "Shiva",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Indra",
-      "Panteão": "Hindu"
+      "God": "Indra",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Agni",
-      "Panteão": "Hindu"
+      "God": "Agni",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Yama",
-      "Panteão": "Hindu"
+      "God": "Yama",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Surya",
-      "Panteão": "Hindu"
+      "God": "Surya",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Ganesha",
-      "Panteão": "Hindu"
+      "God": "Ganesha",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Kartikeya",
-      "Panteão": "Hindu"
+      "God": "Kartikeya",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Hanuman",
-      "Panteão": "Hindu"
+      "God": "Hanuman",
+      "Pantheon": "Hindu"
     },
     {
-      "Deus": "Inti",
-      "Panteão": "Inca"
+      "God": "Inti",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Viracocha",
-      "Panteão": "Inca"
+      "God": "Viracocha",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Kon",
-      "Panteão": "Inca"
+      "God": "Kon",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Supay",
-      "Panteão": "Inca"
+      "God": "Supay",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Catequil",
-      "Panteão": "Inca"
+      "God": "Catequil",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Apu",
-      "Panteão": "Inca"
+      "God": "Apu",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Pariacaca",
-      "Panteão": "Inca"
+      "God": "Pariacaca",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Urcaguary",
-      "Panteão": "Inca"
+      "God": "Urcaguary",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Pachacámac",
-      "Panteão": "Inca"
+      "God": "Pachacámac",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Ataguchu",
-      "Panteão": "Inca"
+      "God": "Ataguchu",
+      "Pantheon": "Inca"
     },
     {
-      "Deus": "Olodumaré",
-      "Panteão": "Yoruba"
+      "God": "Olodumaré",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Exu",
-      "Panteão": "Yoruba"
+      "God": "Exu",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Ogum",
-      "Panteão": "Yoruba"
+      "God": "Ogum",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Xangô",
-      "Panteão": "Yoruba"
+      "God": "Xangô",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Oxóssi",
-      "Panteão": "Yoruba"
+      "God": "Oxóssi",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Omolu",
-      "Panteão": "Yoruba"
+      "God": "Omolu",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Orunmila",
-      "Panteão": "Yoruba"
+      "God": "Orunmila",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Logunedé",
-      "Panteão": "Yoruba"
+      "God": "Logunedé",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Obatalá",
-      "Panteão": "Yoruba"
+      "God": "Obatalá",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Ayrá",
-      "Panteão": "Yoruba"
+      "God": "Ayrá",
+      "Pantheon": "Yoruba"
     },
     {
-      "Deus": "Izanagi",
-      "Panteão": "Japanese"
+      "God": "Izanagi",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Susanoo",
-      "Panteão": "Japanese"
+      "God": "Susanoo",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Raijin",
-      "Panteão": "Japanese"
+      "God": "Raijin",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Fujin",
-      "Panteão": "Japanese"
+      "God": "Fujin",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Omoikane",
-      "Panteão": "Japanese"
+      "God": "Omoikane",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Sarutahiko",
-      "Panteão": "Japanese"
+      "God": "Sarutahiko",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Daikokuten",
-      "Panteão": "Japanese"
+      "God": "Daikokuten",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Ebisu",
-      "Panteão": "Japanese"
+      "God": "Ebisu",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Bishamonten",
-      "Panteão": "Japanese"
+      "God": "Bishamonten",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Hachiman",
-      "Panteão": "Japanese"
+      "God": "Hachiman",
+      "Pantheon": "Japanese"
     },
     {
-      "Deus": "Maíra",
-      "Panteão": "Jê"
+      "God": "Maíra",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Kamé",
-      "Panteão": "Jê"
+      "God": "Kamé",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Kanhru",
-      "Panteão": "Jê"
+      "God": "Kanhru",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Juruanã",
-      "Panteão": "Jê"
+      "God": "Juruanã",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Koru",
-      "Panteão": "Jê"
+      "God": "Koru",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Wajangari",
-      "Panteão": "Jê"
+      "God": "Wajangari",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Karajá",
-      "Panteão": "Jê"
+      "God": "Karajá",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Amanayé",
-      "Panteão": "Jê"
+      "God": "Amanayé",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Boiuna",
-      "Panteão": "Jê"
+      "God": "Boiuna",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Nhanderu",
-      "Panteão": "Jê"
+      "God": "Nhanderu",
+      "Pantheon": "Jê"
     },
     {
-      "Deus": "Papa Legba",
-      "Panteão": "Loas"
+      "God": "Papa Legba",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Ogou",
-      "Panteão": "Loas"
+      "God": "Ogou",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Damballa",
-      "Panteão": "Loas"
+      "God": "Damballa",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Baron Samedi",
-      "Panteão": "Loas"
+      "God": "Baron Samedi",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Kalfu",
-      "Panteão": "Loas"
+      "God": "Kalfu",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Simbi",
-      "Panteão": "Loas"
+      "God": "Simbi",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Agwé",
-      "Panteão": "Loas"
+      "God": "Agwé",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Loko",
-      "Panteão": "Loas"
+      "God": "Loko",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Ayizan",
-      "Panteão": "Loas"
+      "God": "Ayizan",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Marinette",
-      "Panteão": "Loas"
+      "God": "Marinette",
+      "Pantheon": "Loas"
     },
     {
-      "Deus": "Itzamná",
-      "Panteão": "Mayan"
+      "God": "Itzamná",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Kukulkan",
-      "Panteão": "Mayan"
+      "God": "Kukulkan",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Chaac",
-      "Panteão": "Mayan"
+      "God": "Chaac",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Hunab Ku",
-      "Panteão": "Mayan"
+      "God": "Hunab Ku",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Yum Kaax",
-      "Panteão": "Mayan"
+      "God": "Yum Kaax",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Ah Puch",
-      "Panteão": "Mayan"
+      "God": "Ah Puch",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Ek Chuah",
-      "Panteão": "Mayan"
+      "God": "Ek Chuah",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Bolon Dzacab",
-      "Panteão": "Mayan"
+      "God": "Bolon Dzacab",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Cizin",
-      "Panteão": "Mayan"
+      "God": "Cizin",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Bacab",
-      "Panteão": "Mayan"
+      "God": "Bacab",
+      "Pantheon": "Mayan"
     },
     {
-      "Deus": "Coyote (Navajo)",
-      "Panteão": "North American"
+      "God": "Coyote (Navajo)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Thunderbird (Sioux)",
-      "Panteão": "North American"
+      "God": "Thunderbird (Sioux)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Unetlanvhi (Cherokee)",
-      "Panteão": "North American"
+      "God": "Unetlanvhi (Cherokee)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Aba Binili (Choctaw)",
-      "Panteão": "North American"
+      "God": "Aba Binili (Choctaw)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Nanabozho (Chippewa)",
-      "Panteão": "North American"
+      "God": "Nanabozho (Chippewa)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Nayenezgani (Apache)",
-      "Panteão": "North American"
+      "God": "Nayenezgani (Apache)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Old Man (Blackfeet)",
-      "Panteão": "North American"
+      "God": "Old Man (Blackfeet)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Heno (Iroquois)",
-      "Panteão": "North American"
+      "God": "Heno (Iroquois)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Masauwu (Pueblo)",
-      "Panteão": "North American"
+      "God": "Masauwu (Pueblo)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Kane (Havaiano)",
-      "Panteão": "North American"
+      "God": "Kane (Havaiano)",
+      "Pantheon": "North American"
     },
     {
-      "Deus": "Nzambi",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Nzambi",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Kalunga",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Kalunga",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Mpungo",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Mpungo",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Nsasi",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Nsasi",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Lemba",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Lemba",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Funza",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Funza",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Kibuka",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Kibuka",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Simbi",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Simbi",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Pungo",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Pungo",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Kadiampembe",
-      "Panteão": "Nkisi/Minkisi"
+      "God": "Kadiampembe",
+      "Pantheon": "Nkisi/Minkisi"
     },
     {
-      "Deus": "Odin",
-      "Panteão": "Norse"
+      "God": "Odin",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Thor",
-      "Panteão": "Norse"
+      "God": "Thor",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Loki",
-      "Panteão": "Norse"
+      "God": "Loki",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Balder",
-      "Panteão": "Norse"
+      "God": "Balder",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Tyr",
-      "Panteão": "Norse"
+      "God": "Tyr",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Freyr",
-      "Panteão": "Norse"
+      "God": "Freyr",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Heimdall",
-      "Panteão": "Norse"
+      "God": "Heimdall",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Njord",
-      "Panteão": "Norse"
+      "God": "Njord",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Hodr",
-      "Panteão": "Norse"
+      "God": "Hodr",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Vidar",
-      "Panteão": "Norse"
+      "God": "Vidar",
+      "Pantheon": "Norse"
     },
     {
-      "Deus": "Ahura Mazda",
-      "Panteão": "Persian"
+      "God": "Ahura Mazda",
+      "Pantheon": "Persian"
     },
     {
-      "Deus": "Angra Mainyu",
-      "Panteão": "Persian"
+      "God": "Angra Mainyu",
+      "Pantheon": "Persian"
     },
     {
-      "Deus": "Mithra",
-      "Panteão": "Persian"
+      "God": "Mithra",
+      "Pantheon": "Persian"
     },
     {
-      "Deus": "Verethragna",
-      "Panteão": "Persian"
+      "God": "Verethragna",
+      "Pantheon": "Persian"
     },
     {
-      "Deus": "Rashnu",
-      "Panteão": "Persian"
+      "God": "Rashnu",
+      "Pantheon": "Persian"
     },
     {
-      "Deus": "Zurvan",
-      "Panteão": "Persian"
+      "God": "Zurvan",
+      "Pantheon": "Persian"
     },
     {
-      "Deus": "Atar",
-      "Panteão": "Persian"
+      "God": "Atar",
+      "Pantheon": "Persian"
     },
     {
       "God": "Tishtrya",
       "Pantheon": "Persian"
     },
     {
-      "Deus": "Hvar Khshaita",
-      "Panteão": "Persian"
+      "God": "Hvar Khshaita",
+      "Pantheon": "Persian"
     },
     {
-      "Deus": "Apam Napat",
-      "Panteão": "Persian"
+      "God": "Apam Napat",
+      "Pantheon": "Persian"
     },
     {
-      "Deus": "Tangaroa",
-      "Panteão": "Polynesian"
+      "God": "Tangaroa",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Maui",
-      "Panteão": "Polynesian"
+      "God": "Maui",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Rongo",
-      "Panteão": "Polynesian"
+      "God": "Rongo",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Tu",
-      "Panteão": "Polynesian"
+      "God": "Tu",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Tane",
-      "Panteão": "Polynesian"
+      "God": "Tane",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Ru",
-      "Panteão": "Polynesian"
+      "God": "Ru",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Make-make",
-      "Panteão": "Polynesian"
+      "God": "Make-make",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Haumea",
-      "Panteão": "Polynesian"
+      "God": "Haumea",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Pele",
-      "Panteão": "Polynesian"
+      "God": "Pele",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Kane",
-      "Panteão": "Polynesian"
+      "God": "Kane",
+      "Pantheon": "Polynesian"
     },
     {
-      "Deus": "Júpiter",
-      "Panteão": "Roman"
+      "God": "Júpiter",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Netuno",
-      "Panteão": "Roman"
+      "God": "Netuno",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Plutão",
-      "Panteão": "Roman"
+      "God": "Plutão",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Marte",
-      "Panteão": "Roman"
+      "God": "Marte",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Mercúrio",
-      "Panteão": "Roman"
+      "God": "Mercúrio",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Baco",
-      "Panteão": "Roman"
+      "God": "Baco",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Vulcano",
-      "Panteão": "Roman"
+      "God": "Vulcano",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Saturno",
-      "Panteão": "Roman"
+      "God": "Saturno",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Janus",
-      "Panteão": "Roman"
+      "God": "Janus",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Quirino",
-      "Panteão": "Roman"
+      "God": "Quirino",
+      "Pantheon": "Roman"
     },
     {
-      "Deus": "Tupã",
-      "Panteão": "Tupi"
+      "God": "Tupã",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Anhangá",
-      "Panteão": "Tupi"
+      "God": "Anhangá",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Rudá",
-      "Panteão": "Tupi"
+      "God": "Rudá",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Curupira",
-      "Panteão": "Tupi"
+      "God": "Curupira",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Jurupari",
-      "Panteão": "Tupi"
+      "God": "Jurupari",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Guaraci",
-      "Panteão": "Tupi"
+      "God": "Guaraci",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Caapora",
-      "Panteão": "Tupi"
+      "God": "Caapora",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Sumé",
-      "Panteão": "Tupi"
+      "God": "Sumé",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Taru",
-      "Panteão": "Tupi"
+      "God": "Taru",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Mboi Tu\'i",
-      "Panteão": "Tupi"
+      "God": "Mboi Tu\'i",
+      "Pantheon": "Tupi"
     },
     {
-      "Deus": "Sakpata",
-      "Panteão": "Vodun"
+      "God": "Sakpata",
+      "Pantheon": "Vodun"
     },
     {
-      "Deus": "Hevioso",
-      "Panteão": "Vodun"
+      "God": "Hevioso",
+      "Pantheon": "Vodun"
     },
     {
-      "Deus": "Agbe",
-      "Panteão": "Vodun"
+      "God": "Agbe",
+      "Pantheon": "Vodun"
     },
     {
-      "Deus": "Dan",
-      "Panteão": "Vodun"
+      "God": "Dan",
+      "Pantheon": "Vodun"
     },
     {
-      "Deus": "Gu",
-      "Panteão": "Vodun"
+      "God": "Gu",
+      "Pantheon": "Vodun"
     },
     {
-      "Deus": "Loko",
-      "Panteão": "Vodun"
+      "God": "Loko",
+      "Pantheon": "Vodun"
     },
     {
-      "Deus": "Azaka",
-      "Panteão": "Vodun"
+      "God": "Azaka",
+      "Pantheon": "Vodun"
     },
     {
-      "Deus": "Legba",
-      "Panteão": "Vodun"
+      "God": "Legba",
+      "Pantheon": "Vodun"
     },
     {
-      "Deus": "Mawu-Lisa",
-      "Panteão": "Vodun"
+      "God": "Mawu-Lisa",
+      "Pantheon": "Vodun"
     },
     {
-      "Deus": "Fa",
-      "Panteão": "Vodun"
+      "God": "Fa",
+      "Pantheon": "Vodun"
     }
   
   ]
