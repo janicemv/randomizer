@@ -1,11 +1,9 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
-import NodePolyfillPlugin from 'node-polyfill-webpack-plugin';
+import pkg from 'node-polyfill-webpack-plugin';
+const { NodeGlobalsPolyfillPlugin } = pkg;
 
 export default defineConfig({
-  plugins: [
-    react(),
-    new NodePolyfillPlugin()
-  ],
+  plugins: [react(), NodeGlobalsPolyfillPlugin({})],
   base: '/randomizer/',
 });
