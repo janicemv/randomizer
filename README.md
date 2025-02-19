@@ -7,6 +7,7 @@ This project was developed as an **exercise to practice React**, focusing on:
 - **Using components** to separate logic and presentation.  
 - **Managing state** to dynamically update the UI.  
 - **Fetching data from an external source**, simulating an API with JSON files containing the deities.  
+- **Deploying a React project on Github Pages**
 
 ## 🚀 Technologies Used  
 - **React + Vite**
