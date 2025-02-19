@@ -5,7 +5,7 @@ import NodeGlobalsPolyfillPlugin from 'node-polyfill-webpack-plugin';
 export default defineConfig({
   plugins: [
     react(),
-    NodeGlobalsPolyfillPlugin()
+    new NodeGlobalsPolyfillPlugin()
   ],
   base: '/randomizer/',
 });

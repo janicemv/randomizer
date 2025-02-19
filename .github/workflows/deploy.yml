@@ -22,16 +22,6 @@ jobs:
     - name: Install Node.js Polyfills
       run: npm install node-polyfill-webpack-plugin --save-dev
 
-    - name: Update Vite Configuration
-      run: |
-        echo "import { defineConfig } from 'vite';" > vite.config.js
-        echo "import react from '@vitejs/plugin-react';" >> vite.config.js
-        echo "import { NodeGlobalsPolyfillPlugin } from 'node-polyfill-webpack-plugin';" >> vite.config.js
-        echo "export default defineConfig({" >> vite.config.js
-        echo "  plugins: [react(), NodeGlobalsPolyfillPlugin({})]," >> vite.config.js
-        echo "  base: '/randomizer/'," >> vite.config.js
-        echo "});" >> vite.config.js
-
     - run: npm run build
 
     - name: Deploy
