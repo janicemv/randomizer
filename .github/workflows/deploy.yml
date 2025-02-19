@@ -3,26 +3,36 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+    - uses: actions/checkout@v2
 
-    - name: Set up Node.js
+    - name: Use Node.js 16.x
       uses: actions/setup-node@v2
       with:
         node-version: '16'
 
-    - name: Install dependencies
-      run: npm install
+    - run: npm install
 
-    - name: Build the project
-      run: npm run build
+    - name: Install Node.js Polyfills
+      run: npm install node-polyfill-webpack-plugin --save-dev
+
+    - name: Update Vite Configuration
+      run: |
+        echo "import { defineConfig } from 'vite';" > vite.config.js
+        echo "import react from '@vitejs/plugin-react';" >> vite.config.js
+        echo "import { NodeGlobalsPolyfillPlugin } from 'node-polyfill-webpack-plugin';" >> vite.config.js
+        echo "export default defineConfig({" >> vite.config.js
+        echo "  plugins: [react(), NodeGlobalsPolyfillPlugin({})]," >> vite.config.js
+        echo "  base: '/randomizer/'," >> vite.config.js
+        echo "});" >> vite.config.js
+
+    - run: npm run build
 
     - name: Deploy
       if: success()
@@ -30,4 +40,3 @@ jobs:
         npm run deploy
       env:
         GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
-
